@@ -30,7 +30,7 @@
 ![文章编辑](https://github.com/1310137872/BBS/assets/122133977/50953a3e-4327-4743-b064-da4c1c14080c)
 
 ### 文章详情
-![文章编辑](https://github.com/1310137872/BBS/assets/122133977/24970c34-3efd-4d6f-ba74-a96e2c5dbb1f)
+![详情](https://github.com/1310137872/SpringBoot-Vue3-BBS/assets/122133977/586592f3-785b-4bfb-ac40-49c3615e9397)
 
 ### 评论可置顶、回复、点赞、图片上传
 ![评论](https://github.com/1310137872/BBS/assets/122133977/53c0a4c8-e118-4d03-b32f-17ffd104fff7)
