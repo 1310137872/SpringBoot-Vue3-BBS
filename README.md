@@ -45,6 +45,9 @@
 ### 文章管理
 ![管理端](https://github.com/1310137872/BBS/assets/122133977/4235ae48-1a2e-4d0b-93eb-53c797aee62f)
 
+### 板块管理
+![板块管理](https://github.com/1310137872/SpringBoot-Vue3-BBS/assets/122133977/2056feda-8f7a-4758-a47a-de6347a72699)
+
 ### 评论管理
 ![后台评论管理](https://github.com/1310137872/BBS/assets/122133977/bd90f0dd-1519-4f12-8760-862a5f52085b)
 
